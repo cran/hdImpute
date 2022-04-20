@@ -1,13 +1,13 @@
-10d5f8e131a399dd317450190a2d64df *DESCRIPTION
+dfe4307c62e0395e350810a31de7023f *DESCRIPTION
 ede2d07fe998c2507be088e8af9549ac *LICENSE
 f2240e4ffc36acccaceb0acb2b6e9948 *NAMESPACE
 0695d047f576bb971ae3d4643e76f175 *R/globals.R
-4038cd6f0332b531be588b2ff5b10257 *R/hdImpute.R
-0961706e7c329f5d6871e7ff8244f392 *README.md
+6f2230711a0cec961afa92bb3ed4a2c1 *R/hdImpute.R
+36199dc5fb825405fc2d9c69a5296432 *README.md
 03a37b9ff7c896a1c36f158e8c52cf40 *build/vignette.rds
 f62737c7a180f7177b59086c5f68abdf *inst/doc/Getting-Started.R
 9bfa6cae317c00915b7862382560ec73 *inst/doc/Getting-Started.Rmd
-272899c4f661b0b01bc1cdc519230f24 *inst/doc/Getting-Started.html
+4af406b869ff8b4a2cb04c04959acffb *inst/doc/Getting-Started.html
 d47666446be444b672cb89f3eddf5155 *man/feature_cor.Rd
 6a1d44bb4d9b5b15286988073aa96b04 *man/flatten_mat.Rd
 e31fce1a481793f68cf94a2ec51e74b5 *man/hdImpute.Rd

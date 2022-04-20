@@ -1,7 +1,7 @@
 Package: hdImpute
 Type: Package
 Title: A Batch Process for High Dimensional Imputation
-Version: 0.1.0
+Version: 0.1.1
 BugReports: https://github.com/pdwaggoner/hdImpute/issues
 Authors@R: person("Philip", "Waggoner", role = c("aut", "cre"), email = "philip.waggoner@gmail.com")
 Maintainer: Philip Waggoner <philip.waggoner@gmail.com>
@@ -13,13 +13,14 @@ Description: A correlation-based batch process for fast imputation for
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: missRanger, plyr, purrr, magrittr, tibble, dplyr, tidyselect,
-        missForest, tidyverse, usethis
-Suggests: testthat (>= 3.0.0), knitr, rmarkdown
+        cli
+Suggests: testthat (>= 3.0.0), knitr, rmarkdown, usethis, missForest,
+        tidyverse
 VignetteBuilder: knitr
 RoxygenNote: 7.1.2
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-03-02 15:46:25 UTC; philip.waggoner
+Packaged: 2022-04-20 20:52:28 UTC; philip.waggoner
 Author: Philip Waggoner [aut, cre]
 Repository: CRAN
-Date/Publication: 2022-03-07 19:50:02 UTC
+Date/Publication: 2022-04-20 21:12:28 UTC
