@@ -4,6 +4,9 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+
 options(rmarkdown.html_vignette.check_title = FALSE)
 
 ## ----setup, warning = FALSE, message = FALSE----------------------------------
